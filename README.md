@@ -9,7 +9,9 @@ Documents and links to Machine Learning Resources
 
 * Anaconda
  * Conda Documentation : http://conda.pydata.org/
- * Jupyter Notebooks Documentation : https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
+ * Jupyter Notebooks Documentation : 
+  * https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
+  * https://jupyter.readthedocs.io/en/latest/index.html
 
 ## Machine Learning
 
