@@ -2,9 +2,10 @@
 * Misc
  * NgData - Top 50 Data Science Resources : https://www.ngdata.com/top-data-science-resources/
 
-### Data Mining
+### Data Mining & Data Science
 
 * Andrei's Web Mining Blog : http://webmining.olariu.org/
+* Dataquest : https://www.dataquest.io
 
 ### Machine Learning
 
