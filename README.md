@@ -7,6 +7,12 @@
 * Andrei's Web Mining Blog : http://webmining.olariu.org/
 * Dataquest : https://www.dataquest.io
 
+### Kaggle
+
+* Higgs Boson Solutions https://www.kaggle.com/c/higgs-boson/forums/t/10425/code-release
+ * Melisgl : https://github.com/melisgl/higgsml/blob/master/doc/model.md
+ * TimSalimans : https://github.com/TimSalimans/HiggsML
+
 ### Machine Learning
 
 * Matthew A. Russell - Mining the Social Web (2nd Edition)
