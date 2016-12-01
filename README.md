@@ -20,6 +20,7 @@
 
 ### Machine Learning
 
+* Soulmachine - ML Cheat Sheet : https://github.com/soulmachine/machine-learning-cheat-sheet
 * Matthew A. Russell - Mining the Social Web (2nd Edition)
  * Blog : https://miningthesocialweb.com/
  * GitHub : https://github.com/ViXias/Machine-Learning.git
