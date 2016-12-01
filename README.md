@@ -6,6 +6,7 @@
 
 * Andrei's Web Mining Blog : http://webmining.olariu.org/
 * Dataquest : https://www.dataquest.io
+* Erin Shellman http://www.erinshellman.com/
 
 ### Kaggle
 
