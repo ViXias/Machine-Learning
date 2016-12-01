@@ -12,6 +12,7 @@
 * Users to follow
  * Cavaunpeu https://www.kaggle.com/cavaunpeu
  * Christophe Bourguignat https://www.kaggle.com/cbourguignat
+ * Duffman https://www.kaggle.com/duffman
 * Higgs Boson Solutions https://www.kaggle.com/c/higgs-boson/forums/t/10425/code-release
  * Melisgl : https://github.com/melisgl/higgsml/blob/master/doc/model.md
  * TimSalimans : https://github.com/TimSalimans/HiggsML
